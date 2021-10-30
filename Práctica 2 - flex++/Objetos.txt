@@ -1,0 +1,32 @@
+17
+Brionac Lanza 19.5
+Enfeeble Cetro 0.0
+Belenus(L)
+Talion Hacha 16.0
+Mjolnir Martillo 19.5
+Ginnungagap Grimorio 19.4
+Forseti Grimorio 20.0
+Luna Cetro 0.0
+Goetia Grimorio 20.0
+Levyathan(L)
+Valflame Grimorio 20.0
+Kankyu Arco 17.5
+Lanzador Estructura 15.5
+AllegroHarp Pocion 0.0
+Skadi Arco 20.0
+Excalibur Espada 19.5
+Raijinto Espada 17.0
+Trium Lanza 20.0
+Polos(L)
+Sigfried Espada 17.0
+Enfeeble Cetro 0.0
+Gungnir Lanza 19.0
+kikuichimonji Espada 20.0
+GaeBolg Lanza 20.0
+Chakram Shuriken 20.0
+Bunker Escudo 19.0
+Cervatana Shuriken 13.5
+Barrier Grimorio 18.0
+Fortify Cetro 0.0
+Barathrum Hacha 20.0
+Graphen(L)
